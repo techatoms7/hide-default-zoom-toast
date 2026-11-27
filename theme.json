@@ -1,0 +1,13 @@
+{
+	"id": "hide-default-zoom-toast",
+	"name": "Hide Default Zoom Toast",
+	"description": "Hides the zoom toast notification when zoom matches the Accessibility default zoom.",
+	"author": "Custom",
+	"version": "1.0.0",
+	"style": {
+		"script.uc.js": "main"
+	},
+	"fork": [
+		"zen"
+	]
+}
